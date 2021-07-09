@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39310d58-b708-4f1a-bf99-400c08ef4a44}</ProjectGuid>
-    <RootNamespace>合并两个排序的链表</RootNamespace>
+    <ProjectGuid>{33670040-f346-4616-aca1-9f3e267a6e37}</ProjectGuid>
+    <RootNamespace>二叉搜索树的后序遍历序列</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

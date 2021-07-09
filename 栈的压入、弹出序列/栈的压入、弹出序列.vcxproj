@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39310d58-b708-4f1a-bf99-400c08ef4a44}</ProjectGuid>
-    <RootNamespace>合并两个排序的链表</RootNamespace>
+    <ProjectGuid>{6f78d0ad-2a9d-4b42-929b-b6297cb7b676}</ProjectGuid>
+    <RootNamespace>栈的压入弹出序列</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

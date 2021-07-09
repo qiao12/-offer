@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{39310d58-b708-4f1a-bf99-400c08ef4a44}</ProjectGuid>
-    <RootNamespace>合并两个排序的链表</RootNamespace>
+    <ProjectGuid>{ba5a00b5-3908-48a2-be6f-e59bf838fd35}</ProjectGuid>
+    <RootNamespace>复杂链表的复制</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
