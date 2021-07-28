@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\Administrator\source\repos\剑指offer\表示数值的字符串\源.cpp(44,1): error C2059: 语法错误:“}”
+C:\Users\Administrator\source\repos\剑指offer\表示数值的字符串\源.cpp(44,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\Administrator\source\repos\剑指offer\表示数值的字符串\源.cpp(30,1): error C2059: 语法错误:“)”
+C:\Users\Administrator\source\repos\剑指offer\表示数值的字符串\源.cpp(31,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\source\repos\剑指offer\表示数值的字符串\源.cpp(32,59): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
