@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5237f69f-e46a-4b97-a871-4de39ff66f5e}</ProjectGuid>
-    <RootNamespace>链表中环的入口结点</RootNamespace>
+    <ProjectGuid>{dd8f0006-43b4-4352-838e-005d8488f482}</ProjectGuid>
+    <RootNamespace>矩阵中的路径</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
